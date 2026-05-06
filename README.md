@@ -1,2 +1,30 @@
-# 5fe238c9-nonprofit-invoice-creation-and
-n8n automation workflow for nonprofit organizations to create, send, and follow up on invoices and donation acknowledgments automatically. Triggered by Airtable or Google Sheets row updates, generates PDF invoice via HTML template, emails to donor or grant funder, schedules follow-up reminders at 7, 14, and 30 days for unpaid invoices, generates IR
+# Nonprofit Invoice Creation and Follow-up Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZucN56mX6Ak6xy5bucZb0Z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZucN56mX6Ak6xy5bucZb0Z)
+- [Buy on Whop](https://whop.com/nonprofit-invoice-creation-and-follow-up-workflow)
+
